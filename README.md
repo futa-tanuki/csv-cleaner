@@ -90,6 +90,9 @@ A simple CSV cleaner tool built with React + TypeScript + Tailwind CSS.
 - Tailwind CSS
 - Vite
 
+## 🚀 Live Demo
+https://csv-cleaner-two.vercel.app/
+
 ## 💡 Screenshot
 ![screenshot](./screenshot.png)
 
